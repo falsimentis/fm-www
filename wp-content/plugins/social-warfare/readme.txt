@@ -1,9 +1,9 @@
 === WordPress Social Sharing Plugin - Social Warfare ===
-Contributors: holas84, dustinwstout, webinator, warfareplugins, nutsandboltsmedia, cdegraff1, ckmahoney
+Contributors: holas84, dustinwstout, webinator, warfareplugins, cdegraff1, ckmahoney
 Tags: sharing buttons, social media share, floating share buttons, facebook share, google plus share, linkedin share, pin it, pinterest save, mix button, tweet button, twitter share, click to tweet, social sharing buttons, social share, social sharing, social media sharing, wordpress social sharing plugin, social sharing plugin, share buttons, share counts
 Requires at least: 4.5.0
-Tested up to: 5.1
-Stable tag: 3.5.2
+Tested up to: 5.3
+Stable tag: 3.6.1
 Requires PHP: 5.6
 License: GNU General Public License v2.0 or later
 
@@ -194,8 +194,31 @@ We have a growing archive of <a href="https://warfareplugins.com/support/" rel="
 
 == Changelog ==
 
+= 3.6.1 (3 JUN 2019) =
+* Updated Hover Save Pin functionality to work more globally.
+* Fixed conflcit with hover pin button in Thrive Architect page builder.
+* Removed the Google Plus network share button.
+* Fixed an "Uncaught Error" for $ in the JS on the widgets page.
+* Fixed a Twitter PHP notice.
+
+= 3.6.0 (2 MAY 2019) =
+* Updated Hover Save Pin functionality to work more globally.
+* Updated how Facebook share counts are requested.
+* Fixed placement of hidden pinterest image.
+* Fixed double quotation marks breaking Click to Tweets.
+* Fixed the hover-pin-opt out checkbox in a post editor.
+* Fixed hover pin description source.
+* Fixed whitespace/new HTML document being created in buttons panels.
+* Fixed character encoding for <meta> tags.
+
+= 3.5.4 (25 MAR 2019) =
+* Code security audit and updates.
+
+= 3.5.3 (21 MAR 2019) =
+* Immediate security patch for 3.5.x
+
 = 3.5.2 (19 MAR 2019) =
-* Fixed <meta> tags for OG and Twitter Card. 
+* Fixed <meta> tags for OG and Twitter Card.
 * Fixed source of Pinterest description when pinning from Save or Pinterest button.
 * Fixed empty 'via' being added to Pinterest description and Click to Tweet.
 * Updated addon registration and unregistration messages.

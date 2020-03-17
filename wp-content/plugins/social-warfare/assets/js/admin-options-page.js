@@ -206,7 +206,7 @@
 				socialWarfare.activateHoverStates();
 			}
 
-			swpConditionalFields();
+			socialWarfareAdmin.conditionalFields();
 
 		});
 	}
@@ -232,13 +232,13 @@
 
 			saveColorToggle();
 
-			swpConditionalFields();
+			socialWarfareAdmin.conditionalFields();
 		});
 	}
 
 	function populateOptions() {
 		jQuery('form.sw-admin-settings-form input, form.sw-admin-settings-form select').on('change', function() {
-			swpConditionalFields();
+			socialWarfareAdmin.conditionalFields();
 
 			socialWarfare.newOptions = fetchAllOptions();
 
@@ -682,7 +682,7 @@
 			response = JSON.parse(response);
 
 			if (!response.success) {
-				var message = 'Sorry, we had trouble deactivating your key. Please let us know about this at https://warfareplugins.com/subit-ticket';
+				var message = 'Sorry, we had trouble deactivating your key. Please let us know about this at https://warfareplugins.com/submit-ticket';
 				alert(message);
 			} else {
 				// If the response was a success
@@ -872,7 +872,7 @@
 		tabNavInit();
 		checkboxesInit();
 		updateButtonPreviews();
-		swpConditionalFields();
+		socialWarfareAdmin.conditionalFields();
 		updateCttDemo();
 		updateScale();
 		handleRegistration();

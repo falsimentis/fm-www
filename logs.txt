@@ -92958,3 +92958,67 @@ dreeves :
 fmadmin : Admin12345
 
 dreeves : 
+
+fmadmin : admin888
+
+dreeves : 
+
+fmadmin : 123456
+
+dreeves : 
+
+fmadmin : 1234
+
+dreeves : 
+
+fmadmin : 12345678
+
+dreeves : 
+
+fmadmin : admin2019
+
+dreeves : 
+
+fmadmin : admin@2018
+
+dreeves : 
+
+fmadmin : 1234567890
+
+dreeves : 
+
+fmadmin : alfa123
+
+dreeves : 
+
+fmadmin : admin123@
+
+dreeves : 
+
+fmadmin : P@ssw0rd
+
+dreeves : 
+
+fmadmin : admin123456
+
+dreeves : 
+
+fmadmin : Password@123
+
+dreeves : 
+
+fmadmin : admin123!
+
+dreeves : 
+
+fmadmin : zebda
+
+dreeves : 
+
+fmadmin : admin@321
+
+dreeves : 
+
+fmadmin : 123123
+
+dreeves : 

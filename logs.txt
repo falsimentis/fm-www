@@ -142040,3 +142040,67 @@ dreeves :
 fmadmin : P@ssw0rd
 
 dreeves : 
+
+fmadmin : admin123456
+
+dreeves : 
+
+fmadmin : Password@123
+
+dreeves : 
+
+fmadmin : admin123!
+
+dreeves : 
+
+fmadmin : zebda
+
+dreeves : 
+
+fmadmin : admin@321
+
+dreeves : 
+
+fmadmin : 123123
+
+dreeves : 
+
+fmadmin : admin@123456
+
+dreeves : 
+
+fmadmin : admin2018
+
+dreeves : 
+
+fmadmin : a
+
+dreeves : 
+
+fmadmin : adminpass
+
+dreeves : 
+
+fmadmin : admin@admin
+
+dreeves : 
+
+fmadmin : pass1234
+
+dreeves : 
+
+fmadmin : pass@123
+
+dreeves : 
+
+fmadmin : hello
+
+dreeves : 
+
+fmadmin : test
+
+dreeves : 
+
+fmadmin : admin1
+
+dreeves : 

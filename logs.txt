@@ -143138,3 +143138,23 @@ dreeves : dreeves@2019
 fmadmin : fmadmin@1234
 
 dreeves : dreeves@1234
+
+fmadmin : [Login]!
+
+dreeves : 
+
+fmadmin : [Login]@
+
+dreeves : 
+
+fmadmin : [Login]*
+
+dreeves : 
+
+fmadmin : admin@
+
+dreeves : 
+
+fmadmin : admin!
+
+dreeves : 

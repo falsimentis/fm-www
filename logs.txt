@@ -144566,3 +144566,27 @@ dreeves : dreeves@777
 fmadmin : fmadmin@!
 
 dreeves : dreeves@!
+
+fmadmin : fmadmin@12345!
+
+dreeves : dreeves@12345!
+
+fmadmin : fmadmin@dmin
+
+dreeves : dreeves@dmin
+
+fmadmin : fmadmin@18
+
+dreeves : dreeves@18
+
+fmadmin : fmadmin@1234!
+
+dreeves : dreeves@1234!
+
+fmadmin : fmadmin@2018!
+
+dreeves : dreeves@2018!
+
+fmadmin : fmadmin@12345678
+
+dreeves : dreeves@12345678

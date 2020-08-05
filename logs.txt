@@ -162328,3 +162328,47 @@ dreeves :
 fmadmin : admin2018
 
 dreeves : 
+
+fmadmin : a
+
+dreeves : 
+
+fmadmin : adminpass
+
+dreeves : 
+
+fmadmin : admin@admin
+
+dreeves : 
+
+fmadmin : pass1234
+
+dreeves : 
+
+fmadmin : pass@123
+
+dreeves : 
+
+fmadmin : hello
+
+dreeves : 
+
+fmadmin : test
+
+dreeves : 
+
+fmadmin : admin1
+
+dreeves : 
+
+fmadmin : admin@123!
+
+dreeves : 
+
+fmadmin : pass123
+
+dreeves : 
+
+fmadmin : sid
+
+dreeves : 

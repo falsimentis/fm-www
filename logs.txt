@@ -162292,3 +162292,39 @@ dreeves :
 fmadmin : alfa123
 
 dreeves : 
+
+fmadmin : P@ssw0rd
+
+dreeves : 
+
+fmadmin : admin123456
+
+dreeves : 
+
+fmadmin : Password@123
+
+dreeves : 
+
+fmadmin : admin123!
+
+dreeves : 
+
+fmadmin : zebda
+
+dreeves : 
+
+fmadmin : admin@321
+
+dreeves : 
+
+fmadmin : 123123
+
+dreeves : 
+
+fmadmin : admin@123456
+
+dreeves : 
+
+fmadmin : admin2018
+
+dreeves : 
